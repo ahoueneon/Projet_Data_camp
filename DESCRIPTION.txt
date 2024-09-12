@@ -1,0 +1,28 @@
+DESCRIPTION DU PROJET
+
+
+Mini projet pour appliquer certaines connaissances à l'aide de petits problemes.
+
+
+Les differents problemes sont posés ainsi que leurs resolutions dans dans le fichier.py
+On a six(6) datasets qui seront chacun utilisés au fur et à mesure.
+
+
+## resolvons le premier probleme:
+
+Vous travaillez pour un centre de recherche agronomique. Votre responsable souhaite que vous regroupiez les variétés de semences en fonction des différentes mesures contenues dans le grainsDataFrame. Ils veulent également savoir comment votre solution de clustering se compare aux types de graines répertoriés dans l'ensemble de données (les colonnes variety_numberet variety). Essayez d'utiliser toutes les techniques pertinentes que vous avez apprises dans l'apprentissage non supervisé en Python !
+
+
+## Le second probleme:
+
+Dans le fishDataFrame, chaque ligne représente un poisson individuel. Standardisez les caractéristiques et regroupez les poissons en fonction de leurs mensurations. Vous pouvez ensuite comparer vos étiquettes de cluster avec les espèces de poissons réelles (première colonne).
+
+
+## Resolvons le probleme 3:
+
+Dans le wineDataFrame, il y en a trois class_labelsdans cet ensemble de données. Transformez les fonctionnalités pour obtenir le clustering le plus précis.
+
+
+## Reslvons le probleme 4:
+
+Dans le eurovisionDataFrame, effectuez un regroupement hiérarchique des pays votants en utilisant completela liaison et tracez le dendrogramme résultant.
